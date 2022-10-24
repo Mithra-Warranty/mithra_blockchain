@@ -1,2 +1,4 @@
-# mithra_blockchain
-Ethereum contracts and corresponding tests for mithra.
+# Mithra Blockchain
+
+This repository contains ethereum contracts and their corresponding tests.
+
